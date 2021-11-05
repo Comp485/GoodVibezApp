@@ -1,15 +1,13 @@
-# GoodVibezApp
-
 # Original App Design Project - README Template
 ===
 
 # GOOD VIBEZ
 
 ## Table of Contents
-1. 
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+1. Overview
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
 
 ## Good Vibez- Mental Health App
 ### 
@@ -17,12 +15,12 @@
    -**Category:** Health / Social 
    - **Mobile:** Website is view only, uses camera, mobile first experience.
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category: Mental Health/ Social**
+- **Mobile:Primarily this app will be mobile but you would also be allowed to search for this on a desktop**
+- **Story:Users choose their style of meditation or relaxation. They can reach out to other friends through their contacts.
+- **Market: Any student or  young adult who is taking there first steps into the real world without mentally breaking down.
+- **Habit:THis app can be used numerous time throughout the day. Even with a choice of a 2 min excercise.
+- **Scope:First the user will have to register so that the profile somewhat appease to them. THen they will have to take an assesment of basic mental health questions.
 
 ## Product Spec
 
@@ -31,11 +29,16 @@
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* Log in page will be first 
+* User will pick different styles of relaxing
+* Whatever the user picks, it will create multiple spaces that would intrest the user.
+* Profile page is complete, they now have full access to the app.
+* Settings  
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
+* Log of Calming sounds
+* Option to choose the right relaxing method.
 * ...
 
 ### 2. Screen Archetypes
@@ -80,7 +83,8 @@
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://gm1.ggpht.com/B3UJHxFS1EmirgZECxgxQMvvMRJt2sO83Ruyh3Cipqozo9i54yU3M88FHATg_OLk0Yxq98kWMSql5sqy7EdsV52EkkDbEAsQxi8Pz_c_mQx8U0Y4pn19gLB42Hz4AjaKiovp4ZZOv8D_OjcRTVwNovGQLomgBKbH4Zpq_xa7QvrLpfmaCoCBeIxlVcKzDiR_VqcHC0qIgfWjLlX4v3wOxHONyV11JgStoQvLF_VXRBk-p8-6mSmCCGugd9xZAO3BSe1ALXfB8NAi89qktvU70f2Pal5Azss4gIOScj4bbzJf8lTtNmgxYojWDyNFq0uw2JJcLWtA1gRLPBWkUHEeU-yHHQe13v_b8jLDa1y705hOi2cZjR37X5LFqjVW6NHuOu-xkyks2eRSpZTOS_bWSm4aNksrD_WKeByFjiU7atxYTY8tb6qaI1KTtT2ryAHwLb2KhCpMotPqt3IkSYzpU-SiM43AV5o1uv_kZouzEA5TvKHWpiJH9vZu7eA9iQAaF6dYrvYaft_vEi4mwN62MH81W77B4cB3EWPZ3hvCpCkOLAQB34ER2APFsQXX8dWFBqFhux8dPZ9rnPRBJLZPXbctCreDm0Cb-XYBmKM291yqYCA44l6m4Ft0DeXO-aMgoK6hmYncW3ErU0BgfXt8ZoO7i_qnUqJJvO0WcQfEZ0reE2uXbAWjLQbW5_bQf9N9rwGHUql0mxSj5EXyh-yre2QYBauAPAzQJ2pSQBG3=s0-l75-ft-l75-ft" width=600>
+<img ![](https://i.imgur.com/aT7wcLs.jpg)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
