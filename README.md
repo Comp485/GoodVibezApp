@@ -104,3 +104,4 @@ Home/Profile/Login/Search
 - (Create/POST) Create a new comment on a post
 - (Read/GET) Query logged in user object
 - (Update/PUT) Update user profile image 
+- (Read/GET) Query all categories for other posts
