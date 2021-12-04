@@ -92,13 +92,15 @@
 
 
 ## Schema 
+### Models
 [This section will be completed in Unit 9]
 <img width="704" alt="Screen Shot 2021-12-03 at 11 32 01 PM" src="https://user-images.githubusercontent.com/39573207/144697017-b77969fc-4e0c-4e88-b9f4-2fd49a71e3c7.png">
 
 
-### Models
-[Add table of models]
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+PROFILE SCREEN
+Home/Profile/Login/Search
+- (Create/POST) Create a new like on a post
+(Create/POST) Create a new comment on a post
+(Read/GET) Query logged in user object
+(Update/PUT) Update user profile image 
