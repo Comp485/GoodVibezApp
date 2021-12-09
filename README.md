@@ -43,43 +43,37 @@
 
 ### 2. Screen Archetypes
 
-* [Login / Sign up screen]
-   * [where the user will sign up or sign in]
+* Login / Sign up screen
+   * where the user will sign up or sign in
+* Mental health assessment
+   * Here the user will take a general mental health assessment where their results and resources to said results will be shown on the page after this.
    
-* [Mental health assessment]
-   * [Here the user will take a general mental health assessment where their results and resources to said results will be shown on the page after this.]
-   
-* [Results Page/ Resource Tab]
-    * [Here the users results will be shown along with the resource tab to click on to show helpeful resources along said page ]
+* Results Page/ Resource Tab
+    * Here the users results will be shown along with the resource tab to click on to show helpeful resources along said page 
 
 ### 3. Assesment Page
 
 **Tab Navigation** (Tab to Screen)
 
-* [Assesment Questions]
-* [Option A]
-* [Option B]
-* [Option C]
-* [Option D]
+* Home/Feed
+* Search
+* notbook/ journal page
+* quote generator
 
-### 4. Results/Resources Page
+**  4. Flow Navigation** (Screen to Screen)
 
-**Tab Navigation** (Tab to Screen)
-* [Results of Assesment Page]
-* [Resources paragraph]
-* [Video]
-* [Quote of the dat]
-* [Meaning of quote]
-* [More resources]
-
-**Flow Navigation** (Screen to Screen)
-
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Logi/Register
+  - Home/feed after login
+* home/feed
+  - able to scearch for resources(concolers, clinics, etc)
+* notebok/ Journal page
+  - can create daily journals
+  - they can make public and share to others or make private and only show to themselves
+* Quote enerator
+* - Quote of the day
+* - menaing of qoute
+* - can save their favorite quote
+* - log out
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
