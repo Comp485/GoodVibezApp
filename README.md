@@ -82,6 +82,9 @@
 
 ### [BONUS] Digital Wireframes & Mockups
 
+![image](https://user-images.githubusercontent.com/89562629/145368001-d8eb729e-8f2c-48f0-8967-777efb3c0d90.png)
+
+
 ### [BONUS] Interactive Prototype
 
 
