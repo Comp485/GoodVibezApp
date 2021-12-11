@@ -1,5 +1,11 @@
-## Lab 6 - Fragments and Navigation Lab
+## GOOD VIBEZ
 
-This is the starter code for lab 6, see [Android University Course - Lab 6](https://courses.codepath.org/courses/android_university/unit/6#!exercises) for additional instructions.
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='SimpleTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
