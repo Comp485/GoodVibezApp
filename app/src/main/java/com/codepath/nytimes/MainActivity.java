@@ -5,6 +5,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TableLayout;
 
@@ -23,7 +25,11 @@ import com.codepath.nytimes.ui.settings.SettingsFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.tabs.TabLayout;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity {
+
 
         @Override
         public boolean onCreateOptionsMenu(Menu menu) {
@@ -36,6 +42,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
 
         ActionBar actionBar = getSupportActionBar(); // or getActionBar();
         getSupportActionBar().setTitle("GOODVIBEZ"); // set the top title
@@ -58,7 +67,10 @@ public class MainActivity extends AppCompatActivity {
                 switch (item.getItemId()) {
                     case R.id.home:
                         // do something here
+
                         fragment = fragment1;
+                        //ListView listView = (ListView) findViewById(R.id.lvItems);
+                        //listView.setAdapter(itemsAdapter);
                         break;
                     case R.id.best:
                         // do something here

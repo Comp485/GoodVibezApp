@@ -9,7 +9,7 @@
     <string name="search">Search</string>
     <string name="first_page">First page article in %s</string>
 
-    <string name="home_fragment">Home</string>
+    <string name="home_fragment">Quote</string>
     <string name="settings_fragment">Settings</string>
 
     <string name="action_bar_home">NY Times</string>
@@ -24,8 +24,8 @@
     <string name="text_label_2">Relaxing Places</string>
 
     <string name="id2">id</string>
-    <string name="text_QOD">Quotes</string>
+    <string name="text_QOD">Books</string>
     <string name="text_Quotes">Search</string>
-    <string name="text_home">home</string>
+    <string name="text_home">Quotes</string>
 
 </resources>
